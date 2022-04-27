@@ -1,5 +1,5 @@
-#prueba para ejecutar pandoc
+# prueba para ejecutar pandoc
 
 Ahora solo es una **prueba** para ver como cambia a **negrita** y a *cursiva*
 
-##ver título de nivel 2
+## ver título de nivel 2
